@@ -1,0 +1,428 @@
+{
+ "porton": [
+  {
+   "file": "porton-1.jpg",
+   "caption_ru": "Главные ворота старого города — Портон-де-Кампо: арка, мост через ров и крепостная стена",
+   "author": "Liam Quinn from Canada",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Portón_de_Campo_(City_Gate)_(5459555917).jpg"
+  },
+  {
+   "file": "porton-2.jpg",
+   "caption_ru": "Ворота и деревянный подъёмный мост снаружи: стена из дикого камня и ров, заросший травой",
+   "author": "Photograph by Mike Peel (www.mikepeel.net)",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento_2016_023.jpg"
+  },
+  {
+   "file": "porton-3.jpg",
+   "caption_ru": "Крепостная стена над рекой: на бастионе стоит старинная пушка, за ней — Ла-Плата",
+   "author": "Liam Quinn from Canada",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Portón_de_Campo_(City_Gate)_(5460170670).jpg"
+  }
+ ],
+ "suspiros": [
+  {
+   "file": "suspiros-1.jpg",
+   "caption_ru": "Улица Вздохов: булыжная мостовая и старые домики с облупившейся розовой штукатуркой",
+   "author": "Fredlyfish4",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Calle_de_los_Suspiros_2015.JPG"
+  },
+  {
+   "file": "suspiros-2.jpg",
+   "caption_ru": "Улица Вздохов в сторону главной площади: булыжная мостовая и старые стены розового и серого цвета",
+   "author": "Ypsilon from Finland",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Calle_de_Los_Suspiros_towards_Plaza_Mayor.JPG"
+  },
+  {
+   "file": "suspiros-3.jpg",
+   "caption_ru": "Нижний конец улицы Вздохов: цветущая бугенвиллея, и в конце улицы — река",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento3_-_Uruguay.jpg"
+  }
+ ],
+ "plaza": [
+  {
+   "file": "plaza-1.jpg",
+   "caption_ru": "Главная площадь 25 Мая: тенистый сад, а за деревьями — белый маяк",
+   "author": "Fulviusbsas",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:PlazaMayor-Colonia3.jpg"
+  },
+  {
+   "file": "plaza-2.jpg",
+   "caption_ru": "Старый каменный дом с зелёной дверью — Португальский музей",
+   "author": "Nicolas Barriola",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Museo_Portugués.jpg"
+  },
+  {
+   "file": "plaza-3.jpg",
+   "caption_ru": "Дом Накарелло: красные стены и черепичная крыша — совсем небольшой дом XVIII века",
+   "author": "Fulviusbsas",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:NacarelloHouse1.jpg"
+  }
+ ],
+ "faro": [
+  {
+   "file": "faro-1.jpg",
+   "caption_ru": "Белый маяк Колонии на фоне синего неба, рядом — руины монастыря",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Faro_de_Colonia_del_Sacramento,_Uruguay2.JPG"
+  },
+  {
+   "file": "faro-2.jpg",
+   "caption_ru": "Руины монастыря Сан-Франсиско: каменные стены с арками, а крыши давно нет",
+   "author": "Huguitoportal",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ruinas_del_Convento_de_San_Francisco_frontal.jpg"
+  },
+  {
+   "file": "faro-3.jpg",
+   "caption_ru": "Маяк среди деревьев: на него можно подняться и посмотреть на город сверху",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Faro_de_Colonia_del_Sacramento,_Uruguay1.JPG"
+  }
+ ],
+ "sangabriel": [
+  {
+   "file": "sangabriel-1.jpg",
+   "caption_ru": "Руины дома губернатора: низкие каменные стены прямо на траве — по ним видно, где были комнаты",
+   "author": "Photograph by Mike Peel (www.mikepeel.net)",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_the_Governor's_house_(Colonia)_2016_001.jpg"
+  },
+  {
+   "file": "sangabriel-2.jpg",
+   "caption_ru": "Набережная Сан-Габриэль: белая балюстрада вдоль реки",
+   "author": "Ypsilon from Finland",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Paseo_de_San_Gabriel.JPG"
+  },
+  {
+   "file": "sangabriel-3.jpg",
+   "caption_ru": "Остров Сан-Габриэль — зелёный остров на горизонте, прямо напротив города",
+   "author": "CHUCAO",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Isla_San_Gabriel.JPG"
+  }
+ ],
+ "santarita": [
+  {
+   "file": "santarita-1.jpg",
+   "caption_ru": "Закат над Рио-де-ла-Платой: солнце садится прямо в воду и оставляет золотую дорожку",
+   "author": "Banfield",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Atardecer_en_el_Río_de_la_Plata.jpg"
+  },
+  {
+   "file": "santarita-2.jpg",
+   "caption_ru": "Закат с городского пляжа: небо розовое, а вода спокойная",
+   "author": "Mx. Granger",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_on_the_beach_in_Colonia_del_Sacramento.jpg"
+  }
+ ],
+ "muelle": [
+  {
+   "file": "muelle-1.jpg",
+   "caption_ru": "Старый деревянный причал: по нему можно пройтись до самого конца, по сторонам — яхты",
+   "author": "Patricio.lorente",
+   "license": "CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:Muelle_de_Colonia_del_Sacramento.jpg"
+  },
+  {
+   "file": "muelle-2.jpg",
+   "caption_ru": "Яхтенная гавань и деревянный причал, вдалеке — высокая кирпичная труба",
+   "author": "Liam Quinn from Canada",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento,_Uruguay_(5460310580).jpg"
+  }
+ ],
+ "carmen": [
+  {
+   "file": "carmen-1.jpg",
+   "caption_ru": "Бастион дель Кармен: высокая кирпичная труба — найдите её над деревьями",
+   "author": "Flaviohmg",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento,_Uruguay_2018.jpg"
+  },
+  {
+   "file": "carmen-2.jpg",
+   "caption_ru": "Старая каменная стена бастиона у воды и труба за ней; сегодня здесь театр",
+   "author": "Liam Quinn from Canada",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento,_Uruguay_(5459699827).jpg"
+  }
+ ],
+ "basilica": [
+  {
+   "file": "basilica-1.jpg",
+   "caption_ru": "Базилика Святейшего Причастия: две белые колокольни — посмотрите, какие на них часы",
+   "author": "Carlos E. Gonzalez",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Basilica_Colnia_del_Sacramento.jpg"
+  },
+  {
+   "file": "basilica-2.jpg",
+   "caption_ru": "Боковая стена базилики — одной из старейших церквей Уругвая: толстые каменные стены и две колокольни",
+   "author": "Heretiq",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colonia-SouthViewChurchHolySacrament.jpg"
+  },
+  {
+   "file": "basilica-3.jpg",
+   "caption_ru": "Площадь Оружия (Пласа-де-Армас): тенистые деревья, а за ними — базилика",
+   "author": "Helge Høifødt",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_Armas_Colonia_del_Sacramento.JPG"
+  }
+ ],
+ "paleo": [
+  {
+   "file": "paleo-1.jpg",
+   "caption_ru": "Глиптодонт в Национальном музее естественной истории Уругвая (Монтевидео): панцирь как купол, а хвост — с шипастой булавой",
+   "author": "Mike Dickison",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:MNHN_de_Uruguay_MRD_01.jpg"
+  },
+  {
+   "file": "paleo-2.jpg",
+   "caption_ru": "Скелет и панцирь глиптодонта в музее Филда (Чикаго): прикиньте, какого он размера рядом с вами",
+   "author": "Zissoudisctrucker",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:FMNH_Glyptodon.jpg"
+  },
+  {
+   "file": "paleo-3.jpg",
+   "caption_ru": "Так учёные представляют себе глиптодонтов, которые жили здесь 20 тысяч лет назад",
+   "author": "ABelov2014",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Glyptodonts.jpg"
+  }
+ ],
+ "toros": [
+  {
+   "file": "toros-1.jpg",
+   "caption_ru": "Арена для боя быков в Реал-де-Сан-Карлос: стены с арками в форме замочной скважины",
+   "author": "Chzemog",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:20150228_130604Real_de_San_Carlos.jpg"
+  },
+  {
+   "file": "toros-2.jpg",
+   "caption_ru": "Внутри арены: круглое поле и каменные трибуны, которые заросли травой",
+   "author": "Mariola0675",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_toros_en_colonia.JPG"
+  },
+  {
+   "file": "toros-3.jpg",
+   "caption_ru": "Старая фотография арены — когда-то сюда ходили целыми семьями",
+   "author": "Unknown photographer",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_Toros_de_Colonia,_Uruguay.jpg"
+  }
+ ],
+ "fronton": [
+  {
+   "file": "fronton-1.jpg",
+   "caption_ru": "Фронтон Реал-де-Сан-Карлос до реставрации: здание стояло заброшенным",
+   "author": "Coquimbo58",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fronton_Real_de_San_Carlos_antes.png"
+  },
+  {
+   "file": "fronton-2.jpg",
+   "caption_ru": "Тот же фронтон после реставрации: здание снова живёт",
+   "author": "Coquimbo58",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fronton_Real_de_San_Carlos.png"
+  }
+ ],
+ "intro": [
+  {
+   "file": "intro-1.jpg",
+   "caption_ru": "Старинный план крепости Колония-дель-Сакраменто: найдите стены, бастионы и улицы",
+   "author": "Franco. Rodrigz. y Cardoso (digitized by Bibliothèque nationale de France, Gallica)",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Plano_de_la_plaza_de_la_colonia_del_Sacramento_en_el_rio_de_la_Plata..._-_Franco._Rodrigz._y_Cardoso_-_btv1b53121772w.jpg"
+  },
+  {
+   "file": "intro-2.jpg",
+   "caption_ru": "Колония с высоты: старый город — на узком мысе, который вдаётся в реку",
+   "author": "Germanramos",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento_(aérea).jpg"
+  },
+  {
+   "file": "intro-3.jpg",
+   "caption_ru": "Педро де Севальос — испанский генерал, который брал Колонию штурмом",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Pedro_de_Cevallos.jpg"
+  },
+  {
+   "file": "intro-4.jpg",
+   "caption_ru": "Улочка старого города, включённого в список ЮНЕСКО: булыжник, кафе и пальмы",
+   "author": "Embajada de los Estados Unidos en Uruguay from Montevideo, Uruguay",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Colonia_(4457698463).jpg"
+  },
+  {
+   "file": "intro-5.jpg",
+   "caption_ru": "Картина: корабли обстреливают Колонию в 1763 году",
+   "author": "William Elliott",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Attack_of_Nova_Colonia_in_the_River_Plate_in_1763,_under_the_command_of_Captain_John_Macnamara.jpg"
+  }
+ ],
+ "ferry_river": [
+  {
+   "file": "ferry_river-1.jpg",
+   "caption_ru": "Из космоса: Ла-Плата — огромный коричневый залив шириной до 270 км, Колония — посередине между Буэнос-Айресом и Монтевидео",
+   "author": "Earth Sciences and Image Analysis Laboratory, NASA Johnson Space Center",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Rio_de_la_Plata_BA_Montevideo.jpg"
+  },
+  {
+   "file": "ferry_river-2.jpg",
+   "caption_ru": "Снимок с орбиты: коричневая вода реки втекает в синий океан",
+   "author": "Earth Sciences and Image Analysis Laboratory, NASA Johnson Space Center",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Rio_de_la_Plata_BA_2.JPG"
+  },
+  {
+   "file": "ferry_river-3.jpg",
+   "caption_ru": "Две огромные реки — Парана и Уругвай — несут в Ла-Плату песок и глину, поэтому вода бурая",
+   "author": "MODIS Land Rapid Response Team, NASA GSFC",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Río_de_la_Plata_(MODIS_2020-05-01).jpg"
+  },
+  {
+   "file": "ferry_river-4.jpg",
+   "caption_ru": "Рисунок: испанцы Хуана Диаса де Солиса открывают Рио-де-ла-Плату в 1516 году",
+   "author": "Ulpiano Checa",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Descubrimiento_del_Río_de_la_Plata.jpg"
+  },
+  {
+   "file": "ferry_river-5.jpg",
+   "caption_ru": "Немецкий линкор «Адмирал граф Шпее» горит после самозатопления у Монтевидео в 1939 году",
+   "author": "Royal Navy official photographer",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Admiral_Graf_Spee_Flames.jpg"
+  },
+  {
+   "file": "ferry_river-6.jpg",
+   "caption_ru": "Вид на реку и крыши Колонии с маяка: воды так много, что другого берега не видно",
+   "author": "Liam Quinn from Canada",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_the_lighthouse_(5459605555).jpg"
+  }
+ ],
+ "ferry_uruguay": [
+  {
+   "file": "ferry_uruguay-1.jpg",
+   "caption_ru": "Памятник национальному герою Хосе Артигасу на площади Независимости в Монтевидео",
+   "author": "Gerardo Irazábal Valledor",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:General_José_Gervasio_Artigas,_monumento_ecuestre_ubicado_en_la_Plaza_Independencia._Montevideo_-_Uruguay.jpg"
+  },
+  {
+   "file": "ferry_uruguay-2.jpg",
+   "caption_ru": "Картина Бланеса: «Тридцать три восточных» дают клятву освободить свою землю",
+   "author": "Juan Manuel Blanes",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Juan_Manuel_Blanes_-_El_Juramento_de_los_Treinta_y_Tres_Orientales.jpg"
+  },
+  {
+   "file": "ferry_uruguay-3.jpg",
+   "caption_ru": "Стадион Сентенарио с воздуха во время финала первого чемпионата мира по футболу 1930 года",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Vista_aérea_del_Estadio_Centenario_durante_la_final_del_primer_Campeonato_Mundial_de_Fútbol_change.jpg"
+  },
+  {
+   "file": "ferry_uruguay-4.jpg",
+   "caption_ru": "Дворец Сальво на площади Независимости — самая знаменитая высотка Монтевидео",
+   "author": "Felipe Restrepo Acosta",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2016_Palacio_Salvo_Plaza_de_la_Independecia_Montevideo.jpg"
+  },
+  {
+   "file": "ferry_uruguay-5.jpg",
+   "caption_ru": "Кандомбе: барабанщики на карнавальном параде Льямадас в Монтевидео",
+   "author": "Manzanita2203",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cuerda_de_tambores_Desfile_de_Llamadas_2023_Comparsa_ECMA.jpg"
+  },
+  {
+   "file": "ferry_uruguay-6.jpg",
+   "caption_ru": "Мате — любимый напиток уругвайцев и аргентинцев: тыквенный сосуд и металлическая трубочка-бомбилья",
+   "author": "fabulousfabs",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lagenaria_siceraria_Mate_Gourd_(carved_and_decorated_for_drinking_mate)_with_Bombilla.jpg"
+  }
+ ],
+ "ferry_boats": [
+  {
+   "file": "ferry_boats-1.jpg",
+   "caption_ru": "Скоростные паромы Buquebus у причала в Колонии",
+   "author": "Liam Quinn from Canada",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ferry_Terminal_in_Colonia_(5459543681).jpg"
+  },
+  {
+   "file": "ferry_boats-2.jpg",
+   "caption_ru": "Паром Buquebus у пирса в Колонии: через несколько часов он отправится в Буэнос-Айрес",
+   "author": "Jaan-Cornelius K. from Buenos Aires, Argentina",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Buquebus_silvia_ana.jpg"
+  },
+  {
+   "file": "ferry_boats-3.jpg",
+   "caption_ru": "Скоростной катамаран «Франсиско» (Buquebus) в порту Буэнос-Айреса",
+   "author": "ProfesorFavalli",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Francisco_Dársena_Norte_-_01.jpg"
+  },
+  {
+   "file": "ferry_boats-4.jpg",
+   "caption_ru": "След на воде за паромом: река такая бурая от песка и глины",
+   "author": "Falk2",
+   "license": "CC BY-SA 3.0 DE",
+   "source": "https://commons.wikimedia.org/wiki/File:J34_584_»Buquebus«,_Kielwasser.jpg"
+  },
+  {
+   "file": "ferry_boats-5.jpg",
+   "caption_ru": "Новый электрический паром «Чина Соррилья» для Buquebus, построенный на верфи в Тасмании",
+   "author": "Chuq",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:HSC_China_Zorrilla_at_Incat_June_2025_1.jpg"
+  },
+  {
+   "file": "ferry_boats-6.jpg",
+   "caption_ru": "Историческое фото: пассажиры идут по длинному деревянному причалу, а на воде стоит пароход",
+   "author": "Unknown photographer",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Muelle_Real_de_San_Carlos,_1948,_Colonia,_Uruguay_(Bibliotheca_Nacional,_Uruguay).jpg"
+  }
+ ],
+ "videos": [
+  {
+   "file": "video-1.webm",
+   "caption_ru": "Спутниковая анимация: бурая вода реки смешивается с морской на выходе из Ла-Платы",
+   "author": "JPSS imagery: CSU/CIRA & NOAA/NESDIS",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Brown_Sediment_Mixes_With_Seawater_in_Rio_de_la_Plata_(CIRA_2024-01-24_-_nolabels).webm"
+  }
+ ]
+}

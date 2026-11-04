@@ -1,4 +1,4 @@
-const C='colonia-v4', T='colonia-tiles';
+const C='colonia-v5', T='colonia-tiles';
 self.addEventListener('install',e=>self.skipWaiting());
 self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
 self.addEventListener('fetch',e=>{
