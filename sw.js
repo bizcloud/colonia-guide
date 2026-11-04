@@ -1,4 +1,4 @@
-const C='colonia-v5', T='colonia-tiles';
+const C='colonia-v7', T='colonia-tiles';
 self.addEventListener('install',e=>self.skipWaiting());
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==C&&k!==T).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{
