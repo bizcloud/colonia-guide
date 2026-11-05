@@ -183,7 +183,7 @@ function renderAll(list,fit){
   const filmIds=DATA.film.filter(x=>DATA.pres[x]);
   if(filmIds.length) list.insertAdjacentHTML('beforeend',`<div class="step film"><div class="badge" style="background:#c9772b">🎬</div><div class="body"><div class="ttl">Фильм на паром</div><div class="txt">${filmIds.length} глав. Можно начать с любой: кнопки ниже.</div><div class="time">≈ ${Math.round(filmIds.reduce((a,x)=>a+estDur(x),0)/60)} минут, фото и голос</div><div class="acts"><button class="watch" data-film="1">🎬 Смотреть фильм</button><button class="play" data-plist="1">▶ Только слушать</button></div><div class="acts">${filmIds.map((x,i)=>`<button data-filmfrom="${i}">${i+1}. ${DATA.pres[x].title}</button>`).join('')}</div></div></div>`);
   const pts=[];
-  const ids=[...new Set([...Object.keys(DATA.pres),...Object.keys(DATA.audio)])];
+  const ids=[...new Set([...Object.keys(DATA.pres),...Object.keys(DATA.audio)])].filter(id=>SASHA||id!=='amatista');
   ids.forEach(id=>{ const t=(DATA.pres[id]&&DATA.pres[id].title)||DATA.audio[id][1];
     const s=DATA.stops[id]; const pos=s?[s.lat,s.lon]:null;
     if(pos){ L.marker(pos,{icon:pin(s.n,'audio')}).addTo(layer).bindTooltip(t).on('click',()=>play(id)); pts.push(pos) }
